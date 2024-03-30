@@ -1,0 +1,18 @@
+
+
+    
+    
+       [
+        { "id": 1, "name": "Laptop", "price": 800 },
+        { "id": 2, "name": "Mobile Phone", "price": 600 },
+        { "id": 3, "name": "Headphones", "price": 100 },
+        { "id": 4, "name": "Smart Watch", "price": 250 },
+        { "id": 5, "name": "Bluetooth Speaker", "price": 80 },
+        { "id": 6, "name": "External Hard Drive", "price": 120 },
+        { "id": 7, "name": "Wireless Mouse", "price": 30 },
+        { "id": 8, "name": "USB Flash Drive", "price": 15 },
+        { "id": 9, "name": "Power Bank", "price": 50 },
+        { "id": 10, "name": "Webcam", "price": 40 }
+      ]
+    
+    
